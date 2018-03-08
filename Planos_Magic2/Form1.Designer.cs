@@ -52,7 +52,7 @@
             // axWindowsMediaPlayer1
             // 
             this.axWindowsMediaPlayer1.Enabled = true;
-            this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(569, 385);
+            this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(510, 414);
             this.axWindowsMediaPlayer1.Name = "axWindowsMediaPlayer1";
             this.axWindowsMediaPlayer1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axWindowsMediaPlayer1.OcxState")));
             this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(75, 23);
@@ -60,7 +60,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(499, 414);
+            this.button1.Location = new System.Drawing.Point(498, 453);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(134, 46);
             this.button1.TabIndex = 2;
@@ -70,7 +70,7 @@
             // 
             // Viajar_destino
             // 
-            this.Viajar_destino.Location = new System.Drawing.Point(348, 414);
+            this.Viajar_destino.Location = new System.Drawing.Point(343, 453);
             this.Viajar_destino.Name = "Viajar_destino";
             this.Viajar_destino.Size = new System.Drawing.Size(125, 46);
             this.Viajar_destino.TabIndex = 3;
@@ -80,7 +80,7 @@
             // 
             // btn_Viajar
             // 
-            this.btn_Viajar.Location = new System.Drawing.Point(16, 56);
+            this.btn_Viajar.Location = new System.Drawing.Point(16, 55);
             this.btn_Viajar.Name = "btn_Viajar";
             this.btn_Viajar.Size = new System.Drawing.Size(106, 34);
             this.btn_Viajar.TabIndex = 4;
@@ -92,9 +92,9 @@
             // 
             this.panel1.Controls.Add(this.lista_planos);
             this.panel1.Controls.Add(this.btn_Viajar);
-            this.panel1.Location = new System.Drawing.Point(12, 385);
+            this.panel1.Location = new System.Drawing.Point(12, 398);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(295, 100);
+            this.panel1.Size = new System.Drawing.Size(295, 176);
             this.panel1.TabIndex = 5;
             this.panel1.Visible = false;
             // 
@@ -184,7 +184,7 @@
             "Reality Shaping",
             "Spatial Merging",
             "Time Distortion"});
-            this.lista_planos.Location = new System.Drawing.Point(16, 24);
+            this.lista_planos.Location = new System.Drawing.Point(16, 16);
             this.lista_planos.Name = "lista_planos";
             this.lista_planos.Size = new System.Drawing.Size(213, 24);
             this.lista_planos.TabIndex = 5;
@@ -193,8 +193,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.ClientSize = new System.Drawing.Size(656, 497);
+            this.BackColor = System.Drawing.SystemColors.Desktop;
+            this.ClientSize = new System.Drawing.Size(656, 586);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.Viajar_destino);
             this.Controls.Add(this.button1);
