@@ -1,0 +1,14 @@
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\bin\Debug\Planos_Magic2.exe.config
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\bin\Debug\Planos_Magic2.exe
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\bin\Debug\Planos_Magic2.pdb
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\bin\Debug\Interop.WMPLib.dll
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\bin\Debug\AxInterop.WMPLib.dll
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\obj\Debug\Interop.WMPLib.dll
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\obj\Debug\AxInterop.WMPLib.dll
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\obj\Debug\Planos_Magic2.csproj.ResolveComReference.cache
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\obj\Debug\Planos_Magic2.Form1.resources
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\obj\Debug\Planos_Magic2.Properties.Resources.resources
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\obj\Debug\Planos_Magic2.csproj.GenerateResource.Cache
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\obj\Debug\Planos_Magic2.exe
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\obj\Debug\Planos_Magic2.pdb
+c:\users\vis-h\documents\visual studio 2015\Projects\Planos_Magic2\Planos_Magic2\obj\Debug\Planos_Magic2.csprojResolveAssemblyReference.cache
