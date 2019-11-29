@@ -1,0 +1,4 @@
+The program will show planes for the MTG format. To change between planes randomly click on the "Planeswalk" button. If you want to select a specific plane click on the "Viajar a destino" button, this grants access to another panel where you can look for the plane you want, or write the name of a specific one.
+The right side is a HP counter, with two buttons on top which allows to instan set all HP counters to 20 or 40 depending on the type of game is playing (standar or commander).
+
+This is one of my first programs, so the structure is not the best, and will probably undergo several changes in the future.
